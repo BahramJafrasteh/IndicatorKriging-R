@@ -1,5 +1,5 @@
 
-# Indicator Kriging-R
+# Indicator Kriging using R
 
 Implementation of Indicator kriging using gstat library in R
 
