@@ -5,9 +5,7 @@ Implementation of Indicator kriging using gstat library in R
 
 Input data should be comma delimited csv where the last column is the target or Matlab .mat file (Xtr, Ytr, Xt, Yt).
 
-cat("\014")
-rm(list = ls())
-# Required Libraries
+# Libraries
 library(caret)
 library(lattice)
 library(ggplot2)
